@@ -1,0 +1,2 @@
+character  byte       UTF-32   encoded as     glyph   name
+        0          0  00000A   0A                     LINE FEED (LF)

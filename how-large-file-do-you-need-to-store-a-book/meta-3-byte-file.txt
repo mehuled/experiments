@@ -1,0 +1,5 @@
+character  byte       UTF-32   encoded as     glyph   name
+        0          0  000061   61             a      LATIN SMALL LETTER A
+        1          1  00000A   0A                     LINE FEED (LF)
+        2          2  000062   62             b      LATIN SMALL LETTER B
+        3          3  00000A   0A                     LINE FEED (LF)
